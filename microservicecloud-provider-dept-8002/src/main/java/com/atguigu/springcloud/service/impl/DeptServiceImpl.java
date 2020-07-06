@@ -36,6 +36,7 @@ public class DeptServiceImpl implements DeptService
 	public static void main(String[] args) {
 		System.out.println("我搞的玩的");
 		System.out.println("我真的是搞的玩的，闲的没事干--");
+		System.out.println("我真的是搞的玩的，闲的没事干--2");
 	}
 
 }
