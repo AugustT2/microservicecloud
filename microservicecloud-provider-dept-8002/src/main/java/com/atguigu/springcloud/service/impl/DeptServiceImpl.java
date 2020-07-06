@@ -33,4 +33,8 @@ public class DeptServiceImpl implements DeptService
 		return dao.findAll();
 	}
 
+	public static void main(String[] args) {
+		System.out.println("我搞的玩的");
+	}
+
 }
