@@ -37,6 +37,7 @@ public class DeptServiceImpl implements DeptService
 		System.out.println("我搞的玩的");
 		System.out.println("我真的是搞的玩的，闲的没事干--");
 		System.out.println("我真的是搞的玩的，闲的没事干--2");
+		System.out.println("分支添加");
 	}
 
 }
