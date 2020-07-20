@@ -1,13 +1,12 @@
 package com.atguigu.springcloud.service.impl;
 
-import java.util.List;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
 import com.atguigu.springcloud.dao.DeptDao;
 import com.atguigu.springcloud.entities.Dept;
 import com.atguigu.springcloud.service.DeptService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 @Service
 public class DeptServiceImpl implements DeptService
@@ -39,6 +38,7 @@ public class DeptServiceImpl implements DeptService
 		System.out.println("我真的是搞的玩的，闲的没事干--2");
 		System.out.println("主干添加");
 		System.out.println("分支添加");
+		System.out.println("config.user is changed");
 	}
 
 }
